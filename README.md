@@ -6,9 +6,9 @@ Instructions:
 
 There is a file 'music wav.zip'. It contains:
 - A README.txt file.
-• 8 files of the form song-*.wav; these are the original songs that you will build a
+- 8 files of the form song-*.wav; these are the original songs that you will build a
 database of signatures from.
-• 8 files of the form test-*.wav; these are the corrupted versions of the songs that
+- 8 files of the form test-*.wav; these are the corrupted versions of the songs that
 your program should be able to identify.
-• testSong.wav is a sample test file. To change the test song, copy one of the other
+- testSong.wav is a sample test file. To change the test song, copy one of the other
 test-*.wav files to this filename.
